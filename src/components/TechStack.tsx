@@ -42,7 +42,7 @@ function Cloud({ count, radius }: { count: number; radius: number }) {
 
   const groupRef = useRef<THREE.Group>(null);
 
-  useFrame((state, delta) => {
+  useFrame((_, delta) => {
     if (groupRef.current) {
       groupRef.current.rotation.y += delta * 0.15;
       groupRef.current.rotation.x += delta * 0.05;
