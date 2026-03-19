@@ -1,14 +1,12 @@
-# Sanchit Kumar's Portfolio - Overview 🚀
+# Sanchit Kumar's Portfolio 🚀
 
-This repository contains the source code for my personal portfolio website.
-Do check it out!
+**Live Preview**: [portfolio-mu-self-70.vercel.app](https://portfolio-mu-self-70.vercel.app/)
 
-## Instructions 🛠️
+## About Me
+Life Sciences student at Delhi University with hands-on experience in ecological research, AI-powered product development, and data analytics. Founded BioEdge India – an AI-driven platform for biology students. Certified in Generative AI and Google technologies with a demonstrated ability to translate complex biological data into impactful, scalable solutions.
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
-
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+## Tech Stack
+React, TypeScript, Three.js, React Three Fiber, GSAP, WebGL, Node.js, Vercel
 
 ## License
-
 This project is open source and available under the [MIT License](LICENSE).
