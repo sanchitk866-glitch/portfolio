@@ -6,8 +6,8 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 const projects = [
   {
     title: "BioEdge India",
-    category: "AI Biology Platform",
-    tools: "JavaScript, Node.js, Gemini API, Vercel",
+    category: "India's First AI Platform for Biology Students",
+    tools: "React, Node.js, Gemini API, Vercel",
     image: "/images/preview.png",
   },
   {
