@@ -8,7 +8,7 @@ const projects = [
     title: "BioEdge India",
     category: "India's First AI Platform for Biology Students",
     tools: "React, Node.js, Gemini API, Vercel",
-    image: "/images/preview.png",
+    image: "/images/bioedge-preview.png",
   },
   {
     title: "Genetics Study System",
